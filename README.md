@@ -57,7 +57,7 @@ Evaluation (FID, SSIM, PSNR)
 
 ## Association
 
-This project was developed as part of the **MS Computer Science** program at **St. Francis University**, focusing on cutting-edge AI research in generative models and deep learning.
+This project was developed as part of the **MS Computer Science** program at **St. Francis College**, focusing on cutting-edge AI research in generative models and deep learning.
 
 ---
 
