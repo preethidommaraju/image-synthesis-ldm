@@ -1,6 +1,6 @@
 # High-Resolution Image Synthesis with Latent Diffusion Models
 
-> AI / Deep Learning Research Project | Associated with St. Francis University
+> AI / Deep Learning Research Project | Associated with St. Francis College
 
 ## Overview
 
